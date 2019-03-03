@@ -1,19 +1,19 @@
 # Roman Shalkouski
 #### Junior developer
-### *Connection:*
-* **email:** shalkovksyRG@gmail.com
-* **telephone:** +375 29 782-85-04
-* **vkontakte:** https://vk.com/id148884557
+### Connection:
+* email: shalkovksyRG@gmail.com
+* telephone: +375 29 782-85-04
+* vkontakte: https://vk.com/id148884557
 
-### *Skills:*
+### Skills:
 * JavaScript
 * HTML/CSS
 * SQL
 * Java
 
-### *Experience:*
+### Experience:
  CRM-system on Java (with spring MVC and Hibernate).
- I made CRM-system when study in **TeachMeSkills** academy and learned Java.
+ I made CRM-system when study in "TeachMeSkills" academy and learned Java.
  I worked in command with 2 developers.
  It was our diplom for this course.
  Link for our project: https://github.com/IrynaPiatrova/ErpSystem.
@@ -23,11 +23,11 @@
    Simple chat for employees
    Tic-tac-toe
    and others...
-### *Education:*
+### Education:
 * BSU, Minsk, Belarus
 * Faculty of Geography
 * Department of economic geography of foreign countries
 * higher education
 * TeachMeSkills academy (Java course)
-### *English:*
-- Pre-Intermediate — A2
+### English:
+ Pre-Intermediate — A2
