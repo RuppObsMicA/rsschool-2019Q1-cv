@@ -28,4 +28,4 @@
 * higher education
 * TeachMeSkills academy (Java course)
 ### English:
- Pre-Intermediate — A2
+ Pre-Intermediate â€” A2
