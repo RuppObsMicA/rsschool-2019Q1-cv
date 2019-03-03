@@ -3,7 +3,6 @@
 ### Connection:
 * email: shalkovksyRG@gmail.com
 * telephone: +375 29 782-85-04
-* vkontakte: https://vk.com/id148884557
 
 ### Skills:
 * JavaScript
@@ -16,7 +15,6 @@
  I made CRM-system when study in "TeachMeSkills" academy and learned Java.
  I worked in command with 2 developers.
  It was our diplom for this course.
- Link for our project: https://github.com/IrynaPiatrova/ErpSystem.
 
  Also i made some simple applications when study at TMS:
    Web-Calculator
